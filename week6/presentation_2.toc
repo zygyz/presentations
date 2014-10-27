@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Add Kernel Module}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The problem met last week}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{A basic character device driver}{5}{0}{1}
+\beamer@sectionintoc {2}{Running benchmark}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Important paths}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Shortcut for running benchmarks}{7}{0}{2}
