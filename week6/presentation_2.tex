@@ -214,14 +214,48 @@ A \href{http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html}{simple device driver}
 	\item Suitable for batch processing.
     \end{itemize}
     \begin{block}{Script Example}
-	\lstinputlisting[firstline=2]{/home/gyz/code/architecture/fullsys/gem5-stable-fs/runAEL-auto.sh}
+	\lstinputlisting[firstline=2]{/home/gyz/code/architecture/fullsys/gem5-stable-fs/runAEL-auto-p.sh}
     \end{block}
+\end{frame}
+\section{Checkpoint}
+\begin{frame}
+    \frametitle{Checkpoint}
+    The arguments in fs.py:\par
+    \begin{block}{}
+    \begin{itemize}
+	\item --take-checkpoints
+	\item --max-checkpoints
+    \item --checkpoint-dir
+    \item --checkpoint-at-end
+    \item --work-begin-checkpoint-count
+    \item --work-end-checkpoint-count
+    \end{itemize}
+    \end{block}
+\end{frame}
+\begin{frame}
+    \frametitle{Cont'd}
+	\begin{figure}[H]
+	    \begin{center}
+		\includegraphics[scale=0.5]{m6.jpg}
+	    \end{center}
+	    \caption{Output checkpoint messages}
+	    \label{fig:fi}
+	\end{figure}
+	The m5.cpt file:
+	\begin{figure}[H]
+	    \begin{center}
+		\includegraphics[scale=0.4]{m7.jpg}
+	    \end{center}
+	    \caption{m5.cpt}
+	    \label{fig:m5cpt}
+	\end{figure}
+    
 \end{frame}
 \begin{frame}
     \frametitle{This week's work}
     \begin{itemize}
-	\item Study GEM5 source code and kernel module.
-	\item Call for ideas.
+	\item Study the GEM5 source code and Linux module
+	\item Call for ideas
     \end{itemize}
 \end{frame}
 \begin{frame}

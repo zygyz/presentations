@@ -27,12 +27,19 @@
 \headcommand {\beamer@framepages {8}{8}}
 \headcommand {\slideentry {2}{2}{3}{9/9}{Shortcut for running benchmarks}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {2}{2}{4}{10/10}{Shortcut for running benchmarks}{0}}
+\headcommand {\sectionentry {3}{Checkpoint}{10}{Checkpoint}{0}}
+\headcommand {\beamer@sectionpages {6}{9}}
+\headcommand {\beamer@subsectionpages {7}{9}}
+\headcommand {\slideentry {3}{0}{4}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {2}{2}{5}{11/11}{Shortcut for running benchmarks}{0}}
+\headcommand {\slideentry {3}{0}{5}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@partpages {1}{11}}
-\headcommand {\beamer@subsectionpages {7}{11}}
-\headcommand {\beamer@sectionpages {6}{11}}
-\headcommand {\beamer@documentpages {11}}
-\headcommand {\def \inserttotalframenumber {11}}
+\headcommand {\slideentry {3}{0}{6}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {3}{0}{7}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@partpages {1}{13}}
+\headcommand {\beamer@subsectionpages {10}{13}}
+\headcommand {\beamer@sectionpages {10}{13}}
+\headcommand {\beamer@documentpages {13}}
+\headcommand {\def \inserttotalframenumber {13}}

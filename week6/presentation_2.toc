@@ -5,3 +5,4 @@
 \beamer@sectionintoc {2}{Running benchmark}{6}{0}{2}
 \beamer@subsectionintoc {2}{1}{Important paths}{6}{0}{2}
 \beamer@subsectionintoc {2}{2}{Shortcut for running benchmarks}{7}{0}{2}
+\beamer@sectionintoc {3}{Checkpoint}{10}{0}{3}
