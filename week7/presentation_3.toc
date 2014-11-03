@@ -3,3 +3,5 @@
 \beamer@subsectionintoc {1}{1}{Python scripts in GEM5}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{How to run Python script in GEM5}{4}{0}{1}
 \beamer@sectionintoc {2}{How to add a device}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{I/O device base classes}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Add a I/O device}{6}{0}{2}
